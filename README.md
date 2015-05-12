@@ -1,7 +1,7 @@
-# gsptools
+# GSPtoolbox
 
 
-#### INSTALLATION
+#### Installation
 
 Add the GSPtools directory to MATLAB's search path, so that MATLAB can find its contents when run. 
 The easiest way to do this is as follows:
@@ -16,7 +16,7 @@ The easiest way to do this is as follows:
 You should now be able to call the GSP toolbox functions from any other directory on your computer. 
 
 
-#### DESCRIPTION
+#### Description
 
 The hybridization of the exposed 3' portion of the 16S tail with the mRNA sequence produces a free energy
 signal. It can be calculated using J. D. Starmer's 'Free2Bind' software, available at:
