@@ -1,6 +1,3 @@
-## GSPtoolbox
-
-
 #### Installation
 
 Add the GSPtools directory to MATLAB's search path, so that MATLAB can find its contents when run. 
